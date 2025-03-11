@@ -1,4 +1,5 @@
 function helloWorld() {
-    alert('Hello World!');
-    console.log("Botão acionado");
+    const nome = document.getElementsByTagName('input')[0].value;
+    
+    alert('Hello World, ' + nome + '!');
 }
