@@ -7,7 +7,7 @@ body {
 }
 
 input {
-    background-color: black;
+    background-color: rgb(37, 37, 37);
     color: greenyellow;
     border: 1px dashed greenyellow;
     padding: 0.5rem;
