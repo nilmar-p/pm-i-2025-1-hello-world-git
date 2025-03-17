@@ -1,0 +1,6 @@
+Controles de versão descentralizados - SVN - Controle por pasta (cada setor tem sua pasta), 
+em redes locais, servidor centralizado, necessita de backups recorrentes;
+
+Controles de versão centralizados - GIT - Acesso ao repositório inteiro, portanto,
+é comum que cada módulo do sistema tenha seu próprio repositório, todos tem uma cópia do repositório,
+sendo a prova de quedas/perdas em servidores;
