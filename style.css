@@ -35,3 +35,7 @@ button:hover, button:focus {
     font-weight: bold;
     cursor: pointer;
 }
+
+#message {
+    color: greenyellow;
+}
